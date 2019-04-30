@@ -1,6 +1,6 @@
 # active_learning
 Set of modules and tutorials to explain active learning procedures
 
-starting, check the following code with iris dataset, the writing part is in process 
+starting point, check the following code with iris dataset, the writing part is in process
 
-(https://williamamartinez.github.io/active_learning/blob/master/tutorial.html)
+report [here](https://williamamartinez.github.io/active_learning/blob/master/tutorial.html)
