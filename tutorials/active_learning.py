@@ -8,6 +8,7 @@ from sklearn.metrics import accuracy_score
 from sklearn.svm import SVC
 import pandas as pd
 
+#hi hi
 
 def get_data():
     data = load_iris()
