@@ -6,3 +6,5 @@ report 0, active learning basis: [here](https://williamamartinez.github.io/activ
 
 
 report 1, a shallow and deep neural network model: [here](https://williamamartinez.github.io/active_learning/tutorials/shallow_neural_network.html)
+
+report 2, a glance of the Indian Pines AVIRIS hyperespectral data: [here](https://williamamartinez.github.io/active_learning/tutorials/Classificaton_methods.html)
